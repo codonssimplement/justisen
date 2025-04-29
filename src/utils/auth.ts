@@ -70,7 +70,7 @@ export const MOCK_USERS: User[] = [
     firstName: 'Marie',
     lastName: 'Durand',
     role: 'investigator',
-    status: "active",
+    status: "inactive",
     createdAt: undefined,
     updatedAt: undefined,
     regionId: ""
